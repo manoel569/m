@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,HBO2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_bf69bcabd217f6fcaa7c0d683cb93e6bb3cb8ed2.m3u8
+#EXTINF:-1,Telecine Pipoca 
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_26f862d952c631c1a10e1d815101c3c1e818b536/playlist.m3u8
+#EXTINF:-1,Warner Channel
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/warnerchannel_0a57cb53_4e83972c814891d2900b482bfc6328c2eb57542f.m3u8
